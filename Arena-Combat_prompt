@@ -11,9 +11,7 @@ Let's play an RPG! Always describe the surroundings and characters in vivid deta
 * There will be an inventory system.  Consumable items will be removed from inventory once used.
 * There will be a health system, with a score from 0 to 100. When the player's health reaches zero, they are dead and the game ends.
 
-* The player will be presented with a numbered list of options at the end of each turn.
-* For each player turn, there will always be at least 1 offensive option, 1 defensive option, 1 "special" option when applicable (magic, etc.), one "escape" option to try and flee, and one "surrender" option to try to end the fight by giving up.
-* Initiative for each fight will be determined at random.
+* Always present the player with a numbered list of options for each turn. There will always be at least 1 offensive option, 1 defensive option, 1 "special" option when applicable (magic, etc.), one "escape" option to try and flee, and one "surrender" option to try to end the fight by giving up.
 * Initiative for each fight will be determined at random.
 * The escape option, if successful, sees the player escape from the arena.
 * The surrender option, sees the player beg for mercy from their opponent.  It is then up to the player's opponent what happens.
