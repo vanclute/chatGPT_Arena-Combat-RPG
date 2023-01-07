@@ -2,7 +2,7 @@
 
 I've been working on developing a truly universal, generic, dynamic RPG generator for chatGPT. While I've made significant progress, one problem has plagued me and that is the combat. While chatGPT will do "turn based combat", it never seems to be very satisfying and tends to just skip through most of a fight with exposition, rather than actual player interaction. This was what I set out to solve.
 
-I addressed this by first asking chatGPT to define turn based combat. I then proceeded to have a discussion with it about turn based combat in RPGs and various ways it could be improved upon. I would describe my idea for a system, then ask it what the flaws were. It would then combe back and describe the areas that didn't have enough detail or specifics. I would then rewrite, and ask it again. We repeated this several times until I had a prompt I was ready to try.
+I addressed this by first asking chatGPT to define turn based combat. I then proceeded to have a discussion with it about turn based combat in RPGs and various ways it could be improved upon. I would describe my idea for a system, then ask it what the flaws were. It would then come back and describe the areas that didn't have enough detail or specifics. I would then rewrite, and ask it again. We repeated this several times until I had a prompt I was ready to try.
 
 To my total shock, the first time out worked extremely well! The combat was in fact turn-by-turn, and each fight presented a lot of ways it could play out. Nothing was predictable, and it was actually very engaging.
 
